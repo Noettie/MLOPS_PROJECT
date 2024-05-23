@@ -26,7 +26,7 @@ targets:
 
 
 
-  staging:
+   dev:
     workspace:
       host: https://adb-2396132839216422.2.azuredatabricks.net
 
